@@ -29,7 +29,7 @@ import java.io.OutputStream;
 import java.io.IOException;
 
 /**
- * This class provides a common interface for copying one File to another.
+ * This class provides a common interface for copying one File to another. 
  * 
  * @version Package: 5.0, Class: 1.0
  * @author Gary R. Mayer, ASU Dept of Computer Science and Engineering
