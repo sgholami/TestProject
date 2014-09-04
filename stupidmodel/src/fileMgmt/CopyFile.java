@@ -35,7 +35,7 @@ import java.io.IOException;
  * @author Gary R. Mayer, ASU Dept of Computer Science and Engineering
  */
 public final class CopyFile {
-	// Private constructor. No object instantiations.
+	// Private constructor. No object instantiations. 
 	private CopyFile () {}
 	
 	/**
